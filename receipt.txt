@@ -1,0 +1,6 @@
+
+Canteen Billing Receipt
+ID        Name                Price     Quantity  Subtotal
+ 1831      Maggi               18        10        180       
+203       Pista               199       3         597       
+Total Amount: 777

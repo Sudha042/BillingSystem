@@ -1,0 +1,4 @@
+itemid name price quantity
+1831 Maggi 18 10
+203 Pista 199 3
+204 Almonds 249 4
